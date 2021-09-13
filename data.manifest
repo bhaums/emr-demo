@@ -1,0 +1,13 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+               "s3://glue-databrew-immersionday-s3bucket3feedc04-1sgztnryziv5d/shared/Total-Sales_24May2021_1621860857780/"
+		]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ","
+    }
+}
